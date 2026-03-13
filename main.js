@@ -1,4 +1,4 @@
-
+// Delivery Driver Shift Tracker Project
 const fs = require("fs");
 // ============================================================
 // Function 1: getShiftDuration(startTime, endTime)
